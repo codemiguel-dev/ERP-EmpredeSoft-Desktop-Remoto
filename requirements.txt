@@ -1,0 +1,4 @@
+cx_Freeze==7.1.1
+cx_Freeze==7.2.0
+fitz==0.0.1.dev2
+reportlab==4.2.0
